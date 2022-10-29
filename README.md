@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Elyas-Hack
+- aval file (server.py) ra run konid ba code(python server.py) v ip ke beheton mide copy konid
+- sepas an ra ba dostan khod be eshterak bogzarid 
+- dostan shoma bayd file (client.py) ra run konnd v ip ke dadin beheshon ro card konn v Taman be chat room vasl shodand
